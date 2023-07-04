@@ -1,27 +1,26 @@
 ﻿ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Talent,Skill,Locked
-669395,1,★★★,1100,100,Warrior Fairy,15.0,48.0,24.0,6.0,0,Damage II,1,Locked
-690046,4,★★,400,1,Shield Fairy,4.0,12.0,16.0,0.0,0,Aim,10,Locked
-691115,3,★★★,1250,90,Armor Fairy,12.6,0.0,0.0,14.4,0,Keen,10,Locked
-695401,1007,★★★,200,1,Anna Graem,5.2,6.8,14.4,1.6,0,Sturdy,1,Locked
-703068,7,★★★,800,91,Sniper Fairy,0.0,50.4,16.2,9.0,0,Fervor,10,Locked
-703069,24,★★★,1250,1,Barrier Fairy,0.0,14.8,6.4,4.4,0,Accuracy I,1,Locked
-703754,17,★★★,650,1,Illumination Fairy,0.0,20.0,7.2,1.6,0,Armor II,1,Locked
-708295,16,★★,350,1,Rescue Fairy,7.6,20.0,16.0,0.0,0,Critical I,1,Locked
-708296,6,★★★,1400,90,Taunt Fairy,10.2,33.0,16.2,4.8,0,Fervor,10,Locked
-721736,9,★★★,700,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0,Fervor,10,Locked
-735020,25,★★,400,1,Twin Fairies,3.2,11.2,8.8,2.4,0,Aim,1,Locked
-769466,2,★★★,900,1,Fury Fairy,2.8,0.0,8.0,2.0,0,Fervor,1,Locked
+676330,8,★★★★★,3000,100,Artillery Fairy,55.0,0.0,56.0,6.0,0,Fervor,1,Locked
+690046,4,★★★★★,3000,100,Shield Fairy,20.0,60.0,80.0,0.0,0,Aim,10,Locked
+691115,3,★★★★★,3000,100,Armor Fairy,22.0,0.0,0.0,25.0,0,Damage II,10,Locked
+695401,1007,★★★★,505,1,Anna Graem,5.2,6.8,14.4,1.6,0,Sturdy,1,Locked
+703068,7,★★★★★,3000,100,Sniper Fairy,0.0,88.0,28.0,15.0,0,Fervor,10,Locked
+703069,24,★★★★,1850,1,Barrier Fairy,0.0,14.8,6.4,4.4,0,Accuracy I,1,Locked
+703754,17,★★★★★,3000,100,Illumination Fairy,0.0,90.0,32.0,8.0,0,Armor II,1,Locked
+708295,16,★★★,1150,1,Rescue Fairy,7.6,20.0,16.0,0.0,0,Critical I,1,Locked
+708296,6,★★★★★,3000,100,Taunt Fairy,18.0,58.0,28.0,8.0,0,Fervor,10,Locked
+721736,9,★★★★★,3000,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0,Fervor,10,Locked
+735020,25,★★★★,1700,1,Twin Fairies,3.2,11.2,8.8,2.4,0,Aim,1,Locked
+769466,2,★★★★,2100,1,Fury Fairy,2.8,0.0,8.0,2.0,0,Fervor,1,Locked
 784695,19,★★,100,1,Cooking Fairy,1.2,2.4,9.2,2.4,0,Chef,1,Locked
-802332,30,★★★★,390,90,Witch Fairy,33.6,44.8,44.8,0.0,0,Damage II,10,Locked
 812344,10,★,0,1,Reinforcement Fairy,2.0,0.0,14.0,2.0,0,Accuracy I,1,Locked
 849292,23,★★,100,1,Combo Fairy,6.4,18.8,0.0,0.0,0,Sturdy,1,Locked
 849294,12,★★,100,1,Landmine Fairy,5.6,10.0,19.6,0.0,0,Damage II,1,Locked
 884315,5,★★,100,1,Defense Fairy,4.0,0.0,14.4,3.6,0,Damage II,1,Locked
 888582,31,★,0,1,Trap Fairy,5.6,12.0,0.0,0.0,0,Damage I,1,Locked
-936493,1,★,0,1,Warrior Fairy,4.8,16.0,8.0,2.0,0,Assault,1,
-936494,8,★,0,1,Artillery Fairy,10.8,0.0,11.2,1.2,0,Sturdy,1,
-936495,24,★,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0,Suppression,1,
-936496,4,★,0,1,Shield Fairy,4.0,12.0,16.0,0.0,0,Keen,1,
-651309,15,★★★,1300,100,Command Fairy,21.6,0.0,19.2,4.8,0,Damage I,10,Locked
-676330,8,★★★★★,3000,100,Artillery Fairy,55.0,0.0,56.0,6.0,0,Fervor,1,Locked
-721906,11,★★,100,73,Parachute Fairy,15.0,0.0,13.5,3.5,0,Aim,10,Locked
+979435,20,★★★★,500,1,Fireworks Fairy,3.6,8.4,3.6,0.8,0,Fervor,1,Locked
+996925,11,★★★★,2980,1,Parachute Fairy,5.6,0.0,5.2,1.2,0,Critical I,1,Locked
+1002514,1009,★★★,200,1,Drive-In Chicken,2.8,0.0,7.2,2.8,0,Sturdy,1,Locked
+669395,1,★★★★★,3000,100,Warrior Fairy,25.0,80.0,40.0,10.0,0,Damage II,1,Locked
+651309,15,★★★★★,3000,100,Command Fairy,36.0,0.0,32.0,8.0,0,Damage II,10,Locked
+721906,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Damage II,10,Locked
+802332,30,★★★★★,550,100,Witch Fairy,45.0,60.0,60.0,0.0,0,Damage II,10,Locked
